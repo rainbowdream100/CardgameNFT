@@ -1,4 +1,4 @@
-# CardgameMarketplace
+# NFT Cardgame Marketplace
 
 The marketplace contract CollectibleMarketPlace.sol allows a user to put up a ERC721 token for sale. The marketplace will collect a fixed commissionFee for every sale, which will be paid out to the contract owner of the marketplace every time.
 
